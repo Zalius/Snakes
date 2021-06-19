@@ -1,6 +1,6 @@
 # Snakes
 ## StdDraw Version (Made with Standard drawing library)
-Another version of Snake game that our snake needs to avoid Barriers as well as his own body also apples generates randomly in the game plane(our dear snake needs to eat apples to grow up!).
+Another version of Snake game that our snake needs to avoid Barriers as well as his own body also apples generate randomly in the game plane(our dear snake needs to eat apples to grow up!).
 
 ![1](https://user-images.githubusercontent.com/45942833/122630050-586c3f80-d0d6-11eb-8bdf-e88fb06ae156.jpg)
 ![2](https://user-images.githubusercontent.com/45942833/122630054-64580180-d0d6-11eb-8aec-d0607f29caa1.jpg)
