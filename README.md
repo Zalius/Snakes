@@ -8,8 +8,10 @@ Another version of Snake game that our snake needs to avoid Barriers as well as 
 ![4](https://user-images.githubusercontent.com/45942833/122630065-76d23b00-d0d6-11eb-94be-4045dee3e5ba.jpg)
 
 <br />
-<br />
+
+
 ## Java Swing
+
 Same project made with Java Swing and different graphics
 
 ![1](https://user-images.githubusercontent.com/45942833/122630408-a2eebb80-d0d8-11eb-9580-0838cc3c001c.jpg)
